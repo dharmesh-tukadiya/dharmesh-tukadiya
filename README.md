@@ -1,1 +1,1 @@
-Magento2 Developer || Hyvä Themes Developer
+Magento2 || Hyvä Themes Developer
